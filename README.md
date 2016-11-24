@@ -5,9 +5,16 @@ This is a simple maintenance page with a good style !
 
 ## index.php
 
-Simply download the index.html, modify its content, and copy it to your desired path.
+Modify all content in this file.
 
-Additionally you can use the provided install.sh script.
 
 ## .htaccess
+
+This file redirects all ErrorDocument on home page for more security.
+
+
+## robots.txt
+
+This file disallow all robots on all pages after "www.example.fr/"
+This file allow all robots on home page "www.example.fr"
 
